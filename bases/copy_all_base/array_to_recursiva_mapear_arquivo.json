@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "coluna_1": 1,
+            "coluna_2": 2,
+            "coluna_3": 3
+        },
+        {
+            "coluna_1": 2,
+            "coluna_2": 3,
+            "coluna_3": 4
+        }
+    ],
+    "fixed_value": {
+        "to_alter": "value"
+    }
+}
+
